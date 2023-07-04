@@ -1,0 +1,2 @@
+2023-04-27 0:45:28 [ERROR]: SQLSTATE[HY000] [2002] Connection refused
+
